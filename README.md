@@ -1,8 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=500&lines=Hi+there!+I'm+Eleven+%F0%9F%91%8B)
 
-I'm a college student. |📍Chengdu,Sichuan
+I'm a college student in the Class of 2026. |📍Chengdu,Sichuan
 
 **Game Developer**🎮 | **Full Stack Engineer**💻
+
+You can just get in touch with me through the following two emails:
+
+- ElevenNie11@gmail.com
+  
+- nieshiyi20060927@qq.com
 
 >*"Always learning , always building."* 
 
