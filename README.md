@@ -4,11 +4,13 @@ I'm a college student in the Class of 2026. |📍Chengdu,Sichuan
 
 **Game Developer**🎮 | **Full Stack Engineer**💻
 
-You can just get in touch with me through the following two emails:
+You can just get in touch with me through the following two emails📧:
 
 - ElevenNie11@gmail.com
   
 - nieshiyi20060927@qq.com
+
+*🔍My anthor GitHub Account: **ElevenNie11*** (username)
 
 >*"Always learning , always building."* 
 
