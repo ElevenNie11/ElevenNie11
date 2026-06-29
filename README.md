@@ -10,7 +10,7 @@ You can just get in touch with me through the following two emails📧:
   
 - nieshiyi20060927@qq.com
 
-*🔍My anthor GitHub Account: **ElevenNie11*** (username)
+*🔍My anthor GitHub Account: **Nieshiyi11*** (username)
 
 >*"Always learning , always building."* 
 
