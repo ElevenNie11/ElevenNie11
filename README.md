@@ -2,7 +2,7 @@
 
 I'm a college student in the Class of 2025. |📍Chengdu,Sichuan
 
-**Game Developer**🎮 | **Full Stack Engineer**💻
+**Computer Science - Digital Media Technology Major**
 
 You can just get in touch with me through the following two emails📧:
 
