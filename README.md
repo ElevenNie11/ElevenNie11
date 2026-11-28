@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=500&lines=Hi+there!+I'm+Eleven+%F0%9F%91%8B)
 
-📍Seattle, WA |📍Chengdu, Sichuan
+FullStack Engineer |📍Chengdu, Sichuan
 
 **Computer Science - Digital Media Technology Major**
 
